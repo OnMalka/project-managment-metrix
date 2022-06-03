@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Proj A",
+    "description": "Some project description bla bla bla bla bla bla bla bla bla bla",
+    "startDate": "01-01-2022",
+    "endDate": "01-03-2023",
+    "state": "In Progress"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "name": "Proj B",
+    "description": "Some project description bla bla bla bla bla bla bla bla bla bla",
+    "startDate": "01-02-2022",
+    "endDate": "01-02-2023",
+    "state": "In Progress"
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "name": "Proj C",
+    "description": "Some project description bla bla bla bla bla bla bla bla bla bla",
+    "startDate": "01-03-2022",
+    "endDate": "01-01-2023",
+    "state": "In Progress"
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "name": "Proj A",
+    "description": "Some project description bla bla bla bla bla bla bla bla bla bla",
+    "startDate": "01-01-2022",
+    "endDate": "01-03-2023",
+    "state": "In Progress"
+  },
+  {
+    "id": 5,
+    "userId": 2,
+    "name": "Proj B",
+    "description": "Some project description bla bla bla bla bla bla bla bla bla bla",
+    "startDate": "01-02-2022",
+    "endDate": "01-02-2023",
+    "state": "Complete"
+  },
+  {
+    "id": 6,
+    "userId": 2,
+    "name": "Proj C",
+    "description": "Some project description bla bla bla bla bla bla bla bla bla bla",
+    "startDate": "01-03-2022",
+    "endDate": "01-01-2023",
+    "state": "In Progress"
+  }
+]
